@@ -1,0 +1,2 @@
+# winmoc
+moc.exe wrapper
